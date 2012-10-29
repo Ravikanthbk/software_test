@@ -1,5 +1,0 @@
-require 'spec_helper'
-#require_relative "product"
-describe Checkout do
-  pending "write it"
-end
