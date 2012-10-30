@@ -4,5 +4,5 @@
     ruby lib/software_test.rb
 
 # RUNNING THE TEST CASES
-  rspec spec/*.rb
+    rspec spec/*.rb
 
