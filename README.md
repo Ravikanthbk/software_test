@@ -29,12 +29,15 @@ Implement a checkout system that fulfils these requirements in Ruby.
 Test Data
 
 Basket: FR1, SR1, FR1, CF1
+
 Total price expected: £22.25
 
 Basket: FR1, FR1
+
 Total price expected: £3.11
 
 Basket: SR1, SR1, FR1, SR1
+
 Total price expected: £16.61
 
 
