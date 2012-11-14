@@ -17,8 +17,11 @@ their minds often, it needs to be flexible regarding our pricing rules.
 The interface to our checkout looks like this (shown in Ruby):
 
 co = Checkout.new(pricing_rules)
+
 co.scan(item)
+
 co.scan(item)
+
 Price = co.total
 
 Implement a checkout system that fulfils these requirements in Ruby.
